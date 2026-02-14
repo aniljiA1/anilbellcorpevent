@@ -148,7 +148,7 @@ VITE_API_URL=https://anilbellcorpevent.onrender.com/api
 
 🧪 Local Installation Guide
 1️⃣ Clone Repository
-git clone https://github.com/your-username/bellcorp-event-app.git
+git clone https://github.com/aniljiA1/anilbellcorpevent.git
 cd bellcorp-event-app
 
 2️⃣ Backend Setup
