@@ -8,7 +8,7 @@ connectDB();
 const app = express();
 const allowedOrigins = [
   "http://localhost:5173", // Local frontend
-  "https://your-frontend.vercel.app", // Replace with your real Vercel URL
+  "https://anilbellcorpevent.vercel.app", // Replace with your real Vercel URL
 ];
 
 app.use(
